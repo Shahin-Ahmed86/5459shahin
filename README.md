@@ -1,7 +1,7 @@
-(https://media-exp2.licdn.com/dms/image/C4E03AQH4e2zOgjDdDw/profile-displayphoto-shrink_200_200/0/1654704342473?e=1661385600&v=beta&t=gbhqrdIxxxaa1yNyLZ1XRhCDaxcIJp1_dMTPE31FaTw)
+
 ### Hi there 👋, I'm Shahin Ahmed
 #### Junior web developer
-![Junior web developer]
+![Junior web developer](https://media-exp2.licdn.com/dms/image/C4E03AQH4e2zOgjDdDw/profile-displayphoto-shrink_200_200/0/1654704342473?e=1661385600&v=beta&t=gbhqrdIxxxaa1yNyLZ1XRhCDaxcIJp1_dMTPE31FaTw)
 
 I'm Mohammad Shahin Ahmed, a passionate web developer. I develop web applications. My core skill is based on JavaScript and I love to do most things using JavaScript.
 
