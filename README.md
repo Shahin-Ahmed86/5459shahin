@@ -1,4 +1,4 @@
-![Junior web developer](https://media-exp2.licdn.com/dms/image/C4E03AQH4e2zOgjDdDw/profile-displayphoto-shrink_200_200/0/1654704342473?e=1661385600&v=beta&t=gbhqrdIxxxaa1yNyLZ1XRhCDaxcIJp1_dMTPE31FaTw)
+![Junior web developer](https://media.licdn.com/dms/image/D4D35AQEN41QTpBreWA/profile-framedphoto-shrink_200_200/0/1691477078255?e=1694260800&v=beta&t=f5qS5vB_Wt9152VA9oENOp5AwFHhWgV_Z3-Zl1ndrKU)
 ### Hi there 👋, I'm Shahin Ahmed
 #### Junior web developer
 
